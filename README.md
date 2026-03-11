@@ -72,9 +72,9 @@ The simulation produces:
 - Velocity vector field
 - Streamline plot showing vortex formation
 
-Example result:
+The result was compared with the Benchmark dataset:
 
-Primary vortex forms at the center of the cavity due to the moving lid.
+Ghia et al. 1982 Lid-Driven Cavity Benchmark
 
 ---
 
